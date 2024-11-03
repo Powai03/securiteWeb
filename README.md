@@ -6,3 +6,5 @@ Les 2 premiers utilisateurs crées ont par défaut le rôle admin et ont donc ac
 Il y a aussi un système de token, la fonction htmlspecialchars pour empêcher l'injection de code dans les formulaires et le hashage de mot de passe
 Vous trouverez aussi l'export des tables mysql qui vont avec le projet
 Kilian Delcenserie année 2 IIM CDI
+
+edit: bien s'assurer de la présence d'un dossier uploads à la racine du projet pour que les images postées soient stockées dedans
